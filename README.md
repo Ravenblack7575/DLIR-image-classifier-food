@@ -17,7 +17,7 @@ The **methods** involved a two-pronged approach: first, developing and optimizin
 The **results** clearly demonstrated the superiority of the transfer learning approach. The final optimized model, **Food\_IN6 (InceptionV3 convolutional base + customized Dense layers)**, achieved a high test accuracy of **0.8750** (87%), significantly outperforming the final custom-built model, Model 1-5A5, which recorded a test accuracy of 0.7659. The application of transfer learning was key in shortening the process while achieving better performance. The Food\_IN6 model was further validated by correctly classifying all four previously unseen food images taken from the internet with high prediction confidence scores. The model is available for testing via a demo hosted on Hugging Face Spaces.
 
 
-============================================================================================================================
+=================================================================
 
 ### Demo
 
