@@ -1,5 +1,0 @@
-tensorflow
-gradio  # Or streamlit, if you're using streamlit
-Pillow  # For image processing (PIL)
-numpy
-# Add any other libraries your app.py imports

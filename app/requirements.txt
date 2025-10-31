@@ -1,0 +1,6 @@
+#for huggingface spaces
+
+tensorflow
+gradio  
+Pillow  # For image processing (PIL)
+numpy
