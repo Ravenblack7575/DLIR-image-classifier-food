@@ -1,5 +1,5 @@
 #### DLIR-image-classifier-food
-## SDGAI DLIR assignment - Identification of Food via Images Using Convolutional Neural Network (CNN) models
+## SDGAI DLIR assignment - Identification of Food Item via Images Using Convolutional Neural Network (CNN) models
 
 Generated summary of project using NotebookLM:
 
